@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21"
+   name=""
+   committed-date="2006-04-06T09:38:19.476002Z"
+   url="svn://box/planner/Planner"
+   last-author="soda"
+   kind="dir"
+   uuid="9078c285-3602-0410-8a66-c2be50234f7c"
+   revision="21"/>
+<entry
+   committed-rev="21"
+   name="UI.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2006-04-06T09:38:19.476002Z"
+   checksum="1681afefc946f9cea25cd40bb02463b7"
+   last-author="soda"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   name="UI"
+   kind="dir"/>
+</wc-entries>

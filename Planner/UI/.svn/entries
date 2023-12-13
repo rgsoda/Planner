@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21"
+   name=""
+   committed-date="2006-04-06T09:38:19.476002Z"
+   url="svn://box/planner/Planner/UI"
+   last-author="soda"
+   kind="dir"
+   uuid="9078c285-3602-0410-8a66-c2be50234f7c"
+   revision="21"/>
+<entry
+   committed-rev="21"
+   name="Machine.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2006-04-06T09:38:19.476002Z"
+   checksum="601b2b4c88edcf213a698266fab771bc"
+   last-author="soda"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="19"
+   name="Pad.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2006-03-24T11:17:13.630390Z"
+   checksum="bbf7d376641e2d3146d28ce23a9d7860"
+   last-author="soda"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Timeline.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2005-10-03T10:04:37.628393Z"
+   checksum="d8c42b877ceec3d8fa6a9a93127b8786"
+   last-author="p"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="14"
+   name="SelectWindow.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2006-01-02T14:58:47.333757Z"
+   checksum="13fb03449e5d6861a9eb35f3b6f386cd"
+   last-author="p"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="FindWindow.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2005-10-03T10:04:37.628393Z"
+   checksum="903fa87f26a1675df7fb9fcfa650c213"
+   last-author="p"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="19"
+   name="EditWindow.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2006-03-24T11:17:13.630390Z"
+   checksum="a8f56ac2592ba503d8a758545d1acd93"
+   last-author="soda"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TimeAdjustment.pm"
+   text-time="2006-04-06T09:23:27.000000Z"
+   committed-date="2005-10-03T10:04:37.628393Z"
+   checksum="c34cfabcfea4d6f385e00570076b9591"
+   last-author="p"
+   kind="file"
+   prop-time="2006-04-06T09:23:27.000000Z"/>
+</wc-entries>
